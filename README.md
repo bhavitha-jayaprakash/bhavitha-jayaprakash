@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Bhavitha%20Jayaprakash%20👩‍💻&animation=fadeIn&descAlignY=60&fontColor=ecebed&desc=Data%20Science%20&%20Machine%20Learning%20Student&descAlign=52">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Bhavitha%20Jayaprakash%20👩‍💻&animation=fadeIn&descAlignY=60&fontColor=ecebed">
 </h1>
 
 <p align="center">
