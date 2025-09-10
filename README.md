@@ -69,5 +69,4 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavitha-jayaprakash&theme=transparent&hide_border=true&border_radius=12" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavitha-jayaprakash&theme=github-dark&hide_border=true&area=true"&days=10 width="49%"/>
 </p>
